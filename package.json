@@ -2,8 +2,9 @@
   "name": "atom-nodeppt-oncemore",
   "main": "./lib/atom-nodeppt-oncemore",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "run nodeppt in atom",
   "keywords": [
+    "atom nodeppt"
   ],
   "activationCommands": {
     "atom-workspace": "atom-nodeppt-oncemore:toggle"
