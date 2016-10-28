@@ -1,7 +1,7 @@
 {
   "name": "atom-nodeppt-oncemore",
   "main": "./lib/atom-nodeppt-oncemore",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "run nodeppt in atom",
   "keywords": [
     "atom nodeppt"
