@@ -9,7 +9,7 @@
   "activationCommands": {
     "atom-workspace": "atom-nodeppt-oncemore:toggle"
   },
-  "repository": "https://github.com/atom/atom-nodeppt-oncemore",
+  "repository": "https://github.com/BlankRain/atom-nodeppt-oncemore",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
